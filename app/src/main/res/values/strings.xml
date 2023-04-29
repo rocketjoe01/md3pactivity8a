@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">applicationslambook</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="personal_ninformation"> Personal\n Data</string>
+    <string name="name">Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="address">Address</string>
+    <string name="year_sign">Year Sign</string>
+    <string name="zodiac_sign">Zodiac Sign</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="favorite_color">Favorite Color</string>
+    <string name="favorite_book">Favorite Book</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_tv_series">Favorite TV Series</string>
+    <string name="what_is_your_hobby">What is your hobby?</string>
+    <string name="what_super_power_would_you_like_to_have_no_op">What super power would you like to have (no OP)</string>
+    <string name="motto_in_life_or_favorite_quote">Motto in life or Favorite Quote</string>
+    <string name="centercrop1">centercrop1</string>
+    <string name="line1">line1</string>
+    <string-array name="colorS">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Violet</item>
+    </string-array>
+</resources>
